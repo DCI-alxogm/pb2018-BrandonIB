@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*Escribe un texto como el siguiente : */
 
 /*
@@ -7,10 +8,17 @@
 */
 
 
+=======
+/*Este es un comentario
+Programa creado el 06/08/2018 by Alma Gonzalez
+*/
+
+>>>>>>> 8dbe1bea68c7e59b7af9e3a86f9d83358bce7eaa
 #include<stdio.h>
 
 int main()
 {
+<<<<<<< HEAD
 printf("Hola Brandon\n");
 printf("Este es el primer programa del curso\n");
 }
@@ -20,3 +28,12 @@ printf("Este es el primer programa del curso\n");
 
 
 
+=======
+    
+    printf("Hola Alma \n");
+    printf("Este es el primer programa del curso\n");
+    
+    }
+    
+/*Termine de escribir el programa*/
+>>>>>>> 8dbe1bea68c7e59b7af9e3a86f9d83358bce7eaa
