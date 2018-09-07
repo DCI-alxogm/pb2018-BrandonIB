@@ -1,2 +1,0 @@
-ejercicio1_semana4.c
-El programa añade el bucle while para ejecutar lo que el usuario pida indefinidas veces, así el switch toma el valor que el usuario introdujo para ejecutar la transformacion de coordenadas o de temperaturas y, al final del proceso vuelva a preguntar al usuario que desea hacer..
