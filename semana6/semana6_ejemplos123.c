@@ -19,24 +19,13 @@ for(j=0;j<n;j++){
 //EJEMPLO 1
 int main()
 {
-//1
-    int i,j, N=10;
-    float numeros[N];
-    for(i=0;i<N;i++){
-        numeros[i]=0;
-//2
-        for(j=0;j<N;j++){
-        scanf("%f", &numeros[j]);
-//3
-        for(j=0;j<N;j++){
-        printf("%f\n",numeros[j]);
-    }
-    }
-    }
+int i, N=10;
+float numeros[N];
+for(i=0;i<N;i++){
+    numeros[i]=0;
+}
     return 0;
 }
-
-
 //EJEMPLO 2
 #include <stdlib.h>
 #include <stdio.h>
@@ -46,8 +35,6 @@ scanf("%f", &numeros[i]);//asigna el valor a partir de lo que proporciona el usu
 }
 return 0;
 }
-
-
 //EJEMPLO 3
 #include <stdlib.h>
 #include <stdio.h>
