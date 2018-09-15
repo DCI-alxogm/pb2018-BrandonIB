@@ -1,0 +1,20 @@
+Ejemplo 1,2,3:
+Los programas son ejemplos de la utilizacion de Arrays (arreglos) los cuales determinan en los corchetes el numero de secuencias a guardar, cada uno con valor distinto. 
+En el ejemplo uno el programa asigna el valor a partir de la entrada del usuario. 
+En el ejemplo dos, se trata lo mismo, pero aqui el programa tambien imprime en la pantalla el valor del elemento i-ésimo del array.
+En el ejemplo 3 simplemente se agraga una operacion con la variable del array con cada valor asignado por el usuario y lo imprime.
+
+Ejercicio 5:
+El programa es un ejemplo de memoria dinamica de la computadora, es decir, el programa simplemente guarda secuencias de numeros (que se forman por el ciclo for) y realiza una operacion con cada uno de ellos.
+
+Ejercicio 1:
+El programa hace un resumen de la informacion introducida por el usuario, para esto se escanean variables para los criterios, edad, sexo, calificacion, etc y se almacenan por secuencias de arrays hasta la n, que vale 10, el cual indica que serán introducidos 10 casos diferentes que significan 10 personas.
+Posteriormente se realizan operaciones con ciclos if implicados para que imprima a la pantalla cuantos hombres y mujeres son, ademas de indicar los alumnos por semestre.
+Tambien se realizan operaciones basicas para sumar las edades y calificaciones y calcular promedios e imprimir a la pantalla.
+
+Ejemplo FP:
+Este programa simplemente es un ejemplo de una forma de guardar un archivo mediante comandos operacionales desde el codigo del programa y tambien de abrir archivos mediante el codigo de la funcion main (el programa).
+
+Ejercicio 2 y 3:
+Son programas que ejemplifican las formas de tomar informacion de un archivo anteriormente guardado y tomando esa informacion con comandos desde el codigo del programa. Estos son tomados de ejercicios anteriores y modificados para la Lectura y la Escritura.
+
