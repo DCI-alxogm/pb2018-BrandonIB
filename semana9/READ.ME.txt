@@ -1,0 +1,17 @@
+SEMANA 9:
+*******NOTA****** EL EJERCICIO DEL PROMEDIO USA TEXTO2.TXT EN VEZ DE PROMEDIO.TXT
+
+PRESENTACION 1:
+
+Ejercicio1: El programa hace una lectura de un archivo txt y posteriormente con un ciclo for se evaluan los numeros para determinar el numero mayor e imprimirlo a la pantalla. Se usaron apuntadores (punteros) y se definio el espacio en la memoria dinamica para la variable. Finalmente se liberó el espacio de la memoria dinámica.
+Ejercicio2: El programa hace una lectura de un archivo txt y posteriormente se obtiene el promedio y se evalua una variable para determinar la desviacion estandar e imprimirla a la pantalla. Se usaron punteros (apuntadores) y se definio el espacio en la memoria dinamica para la variable. Finalmente se liberó el espacio de la memoria dinámica. Adicionalmente, el programa imprime a la pantalla la locacion en la memoria dinamica para cada dato del txt.
+
+
+PRESENTACION 2:
+
+Ejemplo1(tipoVOID): Es un programa que con una funcion principal sin argumentos de entrada ni valores de salida. Simplemente la función Main manda llamar a la funcion secundaria, que pide al usuario un numero y evalua para el cuadrado.
+Ejemplo2(tipoFLOAT): Es un programa que contiene una funcion principal con argumentos de entrada y de salida. Es decir, en la funcion principal se pide un numero al usuario y se evalua para el cuadrado. La funcion secundaria (cuadrado) simplemente regresa a la principal sin hacer ningún cambio en el programa.
+Ejercicio1(conArgEntrada_sinArgSalida): El programa contiene una funcion que tiene argumentos de entrada, sin argumentos de salida. Se pide al usuario en la funcion principal un numero y en la funcion secundaria se evalua para el cuadrado y se imprime.
+Ejercicio2(sinArgEntrada_conArgSalida): El programa contiene una funcion principal sin argumentos de entrada y con valores de salida, es decir, en la funcion secundaria se pide el numero al usuario y se hacen operaciones, el resulrado lo imprime la funcion principal despues de haber mandado llamar la segunda funcion.
+Ejercicio3: No entendí como poner las 4 funciones en un solo programa si para cada caso se necesita una principal y una secundaria, pero C sólo admite una principal, por lo que no pude compilar el programa. No lo subí.
+
