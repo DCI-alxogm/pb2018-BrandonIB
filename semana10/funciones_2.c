@@ -7,3 +7,4 @@
     printf("El cuadrado de %f es %f\n", x, x2);
     }
 
+//
