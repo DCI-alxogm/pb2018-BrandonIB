@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 import numpy as np
-%#matplotlib inline
+#%matplotlib inline
 
 #Variables en cero:
 w=4
