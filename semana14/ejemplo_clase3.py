@@ -1,7 +1,7 @@
 #se importan librerías
 import numpy as np
 import matplotlib.pyplot as plt
-%matplotlib inline
+%#matplotlib inline
 
 #se inicializan variables y espaciados
 x=np.linspace(-15,15,15+1)
